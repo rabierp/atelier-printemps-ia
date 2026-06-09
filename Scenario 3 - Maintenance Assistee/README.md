@@ -1,1 +1,1 @@
-# Scenarion 3 - Maintenance Assistée
+# Scenario 3 - Maintenance Assistée
